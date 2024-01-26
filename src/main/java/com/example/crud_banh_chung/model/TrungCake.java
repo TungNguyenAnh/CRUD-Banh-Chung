@@ -1,6 +1,6 @@
 package com.example.crud_banh_chung.model;
 
-import jdk.internal.foreign.abi.Binding;
+//import jdk.internal.foreign.abi.Binding;
 
 import javax.persistence.*;
 
